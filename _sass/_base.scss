@@ -210,6 +210,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.profile-sm img {
+  max-width: 160px;   // try 150–220px
+  height: auto;
+}
+
 .profile.float-right {
   margin-left: 1rem;
 }
