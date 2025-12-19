@@ -1,4 +1,10 @@
-{% for social in site.data.socials %}
+{% if page.social_links %}
+  {% assign socials_data = page.social_links %}
+{% else %}
+  {% assign socials_data = site.data.socials %}
+{% endif %}
+
+{% for social in socials_data %}
   {% case social[0] %}
     {% when 'academia_edu' %}
       <a href="https://{{ social[1].organization }}.academia.edu/{{ social[1].username }}" title="Academia.edu"><i class="ai ai-academia"></i></a>
