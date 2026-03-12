@@ -1,8 +1,8 @@
 ## Mostafijur Rahman Akhond
 
-#### Affiliation
+#### PhD Student at York University
 
-Brief Info about you
+
 
 <a href="/people/mostafij/profile" class="btn btn-sm btn-outline-primary">
   View profile →
