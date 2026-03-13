@@ -6,7 +6,7 @@ subtitle: PhD Student, York University
 
 profile:
   align: right
-  image: people/haoran_dp.jpeg
+  image: people/haoran_dp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EECS York University</p>

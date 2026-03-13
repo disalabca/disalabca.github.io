@@ -18,7 +18,7 @@ profiles:
     content: people/afif.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: people/haoran_dp.jpeg
+    image: people/haoran_dp.jpg
     content: people/haoran.md
     image_circular: false # crops the image to make it circular
   - align: right
