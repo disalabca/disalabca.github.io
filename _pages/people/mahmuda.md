@@ -2,4 +2,6 @@
 
 #### PhD Student, EECS, York University
 
-[ View profile → ](/people/mahmuda/profile/)
+<a href="/people/mahmuda/profile" class="btn btn-sm btn-outline-primary">
+  View profile →
+</a>
