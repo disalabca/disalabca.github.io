@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Research
+# Data Intensive Software Analytics (DISA) Lab
 
 The DISA Lab conducts research on the trustworthiness assessment and improvement of AI-powered systems, with a focus on robustness, safety, and security. We employ statistical methods, data science, and software engineering principles to develop techniques that make AI assistants more reliable and secure. Our mission is to enhance the productivity and effectiveness of knowledge professionals—including data scientists and software engineers—through robust and trustworthy AI tools.
 
