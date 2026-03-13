@@ -14,7 +14,7 @@ profile:
     <p>Toronto, Ontario, Canada, M3J 1P3</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-# Data Intensive Software Analytics (DISA) Lab
 
 ## Research
 
