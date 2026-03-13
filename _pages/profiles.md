@@ -17,21 +17,16 @@ profiles:
     image: people/afif_dp.jpeg
     content: people/afif.md
     image_circular: false # crops the image to make it circular
-  # - align: left
-  #   image: people/default_people.jpg
-  #   content: people/sayan.md
-  #   image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>555 your office number</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
-    #   <p>Office 555</p>
   - align: right
-    image: people/sanjeepan_dp.jpeg
-    content: people/sanjeepan.md
+    image: people/haoran_dp.jpeg
+    content: people/haoran.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: people/mahmuda.jpg
     content: people/mahmuda.md
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: people/sanjeepan_dp.jpeg
+    content: people/sanjeepan.md
     image_circular: false # crops the image to make it circular
 ---
