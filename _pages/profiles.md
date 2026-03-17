@@ -33,5 +33,9 @@ profiles:
     image: people/enan_dp.jpeg
     content: people/enan.md
     image_circular: false
+  - align: right
+    image: people/fares.jpg
+    content: people/fares.md
+    image_circular: false  
 
 ---
