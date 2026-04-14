@@ -29,4 +29,13 @@ profiles:
     image: people/sanjeepan_dp.jpeg
     content: people/sanjeepan.md
     image_circular: false # crops the image to make it circular
+  - align: right
+    image: people/enan_dp.jpeg
+    content: people/enan.md
+    image_circular: false
+  - align: right
+    image: people/fares.jpg
+    content: people/fares.md
+    image_circular: false  
+
 ---
