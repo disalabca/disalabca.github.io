@@ -29,6 +29,9 @@ latest_posts:
 
 # Data Intensive Software Analytics (DISA) Lab
 
+##### Director and Founder: [Dr. Gias Uddin](https://giasuddin.ca/)
+
+<br>
 The DISA Lab conducts research on the trustworthiness assessment and improvement of AI-powered systems, with a focus on robustness, safety, and security. We employ statistical methods, data science, and software engineering principles to develop techniques that make AI assistants more reliable and secure. Our mission is to enhance the productivity and effectiveness of knowledge professionals—including data scientists and software engineers—through robust and trustworthy AI tools.
 
 Our research spans four interconnected areas:

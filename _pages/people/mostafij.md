@@ -4,7 +4,7 @@
 
 
 
-<a href="/people/mostafij/profile" class="btn btn-sm btn-outline-primary">
+<a href="/people/mostafij/profile" style="color: #f69337; border-color: #f69337;" class="btn btn-sm">
   View profile →
 </a>
 

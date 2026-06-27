@@ -2,7 +2,7 @@
 
 #### PhD Student, University of Calgary
 
-<a href="/people/afif/profile" class="btn btn-sm btn-outline-primary">
-  View profile →
+<a href="https://afif.me" style="color: #f69337; border-color: #f69337;" class="btn btn-sm">
+  Personal Website →
 </a>
 

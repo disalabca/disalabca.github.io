@@ -4,7 +4,7 @@
 
 Brief Info about you
 
-<a href="/people/sayan/profile" class="btn btn-sm btn-outline-primary">
+<a href="/people/sayan/profile" style="color: #f69337; border-color: #f69337;" class="btn btn-sm">
   View profile →
 </a>
 

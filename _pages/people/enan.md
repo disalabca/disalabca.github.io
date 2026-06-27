@@ -2,7 +2,7 @@
 
 #### MASc Student, York University
 
-<a href="/people/enan/profile" class="btn btn-sm btn-outline-primary">
+<a href="/people/enan/profile" style="color: #f69337; border-color: #f69337;" class="btn btn-sm">
   View profile →
 </a>
 
