@@ -51,6 +51,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/afif-ease2026/";
+            },},{id: "news-our-paper-triagerx-dual-transformers-for-bug-triaging-tasks-with-content-and-interaction-based-rankings-has-been-accepted-to-ieee-transactions-on-software-engineering-tse",
+          title: 'Our paper TriagerX: Dual Transformers for Bug Triaging Tasks with Content and Interaction...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/afif-tse2026/";
+            },},{id: "news-blagent-agentic-rag-for-file-level-bug-localization-accepted-to-the-acm-transactions-on-software-engineering-and-methodology-tosem-special-issue-on-agentic-ai",
+          title: 'BLAgent: Agentic RAG for File-Level Bug Localization — Accepted to the ACM Transactions...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/afif-tosem2026/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
